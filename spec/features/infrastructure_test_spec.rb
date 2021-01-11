@@ -1,5 +1,3 @@
-require "capybara/rspec"
-require "./lib/app"
 require 'spec_helper'
 
 feature 'Testing infrastructure' do
